@@ -1,7 +1,7 @@
 {
   "窗口": "窗口句柄",
-  "标题": "KGWin32App",
-  "类名": "剑网3无界",
+  "标题": "剑网3无界",
+  "类名": "KGWin32App",
   "reg": "ghsl2794681f6a4a0e8a9025c02a6bb5db73a5a",
   "user": "wang928177",
   "timeoutSeconds": 30,
