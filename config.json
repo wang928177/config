@@ -3,7 +3,7 @@
   "标题": "KGWin32App",
   "类名": "剑网3无界",
   "reg": "ghsl2794681f6a4a0e8a9025c02a6bb5db73a5a",
-  "apiEndpoint": "https://api.example.com",
+  "user": "wang928177",
   "timeoutSeconds": 30,
   "allowedIPs": ["192.168.1.1", "10.0.0.2"]
 }
